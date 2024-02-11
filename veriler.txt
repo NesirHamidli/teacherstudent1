@@ -1,0 +1,3 @@
+Person{name='ziya', surname='sir', age=12}
+Person{name='nesir', surname='mir', age=25}
+Person{name='ziya', surname='sirinov', age=12}
